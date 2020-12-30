@@ -32,7 +32,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
             System.out.println("actualLogo = " + actualLogo);
             System.out.println("expectedLogo = " + expectedLogo);
 
-            // driver.close();
+             driver.close();
 
         }
     }
